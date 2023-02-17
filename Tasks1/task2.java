@@ -4,7 +4,7 @@ package Java_Tasks.Tasks1;
 
 public class task2 {
     public static void main(String[] args) {
-        onethousandsimpledigits(1000, 1000);
+        onethousandsimpledigits(0, 1000);
     }
     public static void onethousandsimpledigits(int x, int y) {
         int counter = 0;
